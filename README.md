@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Desenvolvedor+na+DavinTI+%F0%9F%9A%80;Low-code+%2B+Oracle+%2B+JavaScript+no+dia+a+dia;Integra%C3%A7%C3%B5es+com+ERPs%3A+TOTVS+Protheus+e+Senior;Node.js+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Docker;Automatizando+tudo+que+aparece+pela+frente+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Desenvolvedor+na+DavinTI+%F0%9F%9A%80;JavaScript+%2B+HTML+%2B+Oracle+no+dia+a+dia;Integra%C3%A7%C3%B5es+com+ERPs%3A+TOTVS+Protheus+e+Senior;Node.js+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Docker;Automatizando+tudo+que+aparece+pela+frente+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,18 +25,16 @@ const caio = {
   local: "Belo Horizonte, MG 🇧🇷",
   trabalho: "Desenvolvedor @ DavinTI",
   foco: ["Sistemas corporativos", "Integrações com ERP", "Automação", "Full stack"],
-  diaADia: ["JavaScript", "Oracle SQL / PL/SQL", "XML", "BPMN", "WebServices"],
+  diaADia: ["JavaScript", "HTML", "Oracle SQL / PL/SQL", "XML", "BPMN", "WebServices"],
   projetosPessoais: ["Node.js", "React", "TypeScript", "Python", "Docker", "PostgreSQL"],
   aprendendo: ["Engenharia de dados", "Agentes de IA", "Mobile com Expo"],
-  curiosidade: "Se dá pra automatizar, eu automatizo. ⚙️",
 };
 ```
 
-- 🏢 Hoje sou **desenvolvedor na [DavinTI](https://davinti.com.br)**, criando e mantendo sistemas corporativos na plataforma low-code **Vitruvio** para o varejo
+- 🏢 Hoje sou **desenvolvedor na [DavinTI](https://davinti.com.br)**, criando e mantendo sistemas corporativos na plataforma **Vitruvio** (JavaScript e HTML) para o varejo
 - 🔗 Trabalho bastante com **integrações entre sistemas**: ERP (TOTVS Protheus, Senior), WebServices, filas de integração e banco Oracle
 - 🤖 Uso **IA no fluxo de desenvolvimento**: Claude Code com plugins, skills e servidores MCP próprios (Oracle e Gitea)
 - 🌱 Nas horas vagas, construo projetos de **web, mobile, scraping e dados**
-- 💬 Pode falar comigo sobre **SQL, integrações, automações e JavaScript**
 
 ---
 
@@ -46,8 +44,8 @@ const caio = {
   <tr>
     <td width="50%" valign="top">
 
-### 🧩 Desenvolvimento low-code (Vitruvio)
-- Painéis e telas em **XML** com regras em **JavaScript (Rhino / ES5)**
+### 🧩 Desenvolvimento no Vitruvio
+- Painéis e telas em **HTML / XML** com regras em **JavaScript (Rhino / ES5)**
 - Processos de negócio em **BPMN** com formulários web e mobile
 - **WebServices** e endpoints REST para outros sistemas
 - Relatórios em **JasperReports**

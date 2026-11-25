@@ -181,7 +181,7 @@ const caio = {
 | ₿ **Layout API Binance** | Cotação do BTC/BRL em tempo real (preço atual, máxima e mínima de 24h). | Python · Requests · HTML |
 | 📒 **[Agenda Web](https://github.com/CaioW1ller/Agenda-Cadastro-Pesquisa-Web)** | Agenda telefônica com cadastro, pesquisa e edição de contatos, com vários telefones por contato. | Node.js · Express · SQLite · JavaScript |
 | 🐼 **[7 Days of Code: Pandas](https://github.com/CaioW1ller/7DaysOfCode-Python-Pandas)** | Desafio de análise de dados com Python e Pandas. | Python · Pandas · Jupyter |
-| 📚 **[Programming Language](https://github.com/CaioW1ller/Programming-Language)** | Scripts de estudo em várias linguagens. | Python |
+| 📚 **[Programming Language](https://github.com/CaioW1ller/Programming-Language)** | Scripts de estudo em várias linguagens. | Python · Java · JavaScript |
 
 ---
 
